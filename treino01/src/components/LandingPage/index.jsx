@@ -9,7 +9,7 @@ export default function LandingPage() {
             <img
               id={styles.logo}
               src="/images/shoppingcart_77968.svg"
-              height="20rem"
+              height="100rem"
               alt="logomarca de Happy"
             />
 
