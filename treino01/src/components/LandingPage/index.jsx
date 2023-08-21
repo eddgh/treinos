@@ -8,7 +8,7 @@ export default function LandingPage() {
           <header>
             <img
               id={styles.logo}
-              src="/src/assets/react.svg"
+              src="./src/assets/react.svg"
               alt="logomarca de Happy"
             />
 
