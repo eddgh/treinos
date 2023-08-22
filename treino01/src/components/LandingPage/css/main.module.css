@@ -16,7 +16,7 @@ body, input, button, textarea {
 }
 
 #pageLanding {
-    background: linear-gradient(329.5deg,#5baef7 0%,#39e8b6 100%);
+    background: linear-gradient(142deg,#a402f7 15%,#850fbf 33%, #4b00ff);
     text-align: center;
     min-height: 100vh;
     display:flex;
