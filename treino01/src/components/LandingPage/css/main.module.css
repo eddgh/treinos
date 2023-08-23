@@ -72,6 +72,23 @@ h1,
     animation-name: up;
     animation-duration: 0.5s;
     animation-fill-mode: backwards;
-
 }
 
+#logo {
+    animation-delay: 50ms;
+}
+
+.title {
+    animation-delay: 100ms;
+}
+
+.main h1 {
+    animation-delay: 150ms;
+}
+
+.adding p {
+    animation-delay: 200ms ;
+}
+ .adding a {
+    animation-delay: 250ms;
+ }
