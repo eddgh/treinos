@@ -26,7 +26,7 @@ export default function LandingPage() {
 
               <a href="#" title="Adicionar item">
                 <img
-                  src="/images/pngwing.com.svg"
+                  src="/images/pngwing.com.png"
                   alt="imagem da seta 'adicionar item'"
                 />
               </a>
