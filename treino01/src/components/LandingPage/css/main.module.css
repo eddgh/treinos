@@ -22,7 +22,11 @@ body, input, button, textarea {
 }
 
 #container {
+    width: 90%;
     margin: auto;
+    background: #1ca5c4;
+    padding: 2rem;
+    border-radius: 2rem;
 }
 
 #container header img{
