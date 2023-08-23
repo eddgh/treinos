@@ -4,8 +4,6 @@
     padding: 0;
 }
 
-
-
 body {
     height: 100vh;
     color: white;
@@ -27,6 +25,11 @@ body, input, button, textarea {
     margin: auto;
 }
 
+#container header img{
+    height: 15rem;
+}
+
+
 .title, h1, .adding p {
     height: 16vh;
 }
@@ -41,4 +44,8 @@ body, input, button, textarea {
     align-items: center;
     justify-content: center;
     margin: auto;
+}
+
+.adding a img{
+    height: 2rem;
 }

@@ -8,9 +8,8 @@ export default function LandingPage() {
           <header>
             <img
               id={styles.logo}
-              src="/images/shoppingcart_77968.svg"
-              height="150rem"
-              alt="logomarca de Happy"
+              src="./public/images/shoppingcart_77968.svg"
+              alt="logomarca de Meu Mercado"
             />
 
             <div className={styles.title}>
@@ -27,9 +26,8 @@ export default function LandingPage() {
 
               <a href="#" title="Adicionar item">
                 <img
-                  src="/images/pngwing.com.png"
-                  height="20"
-                  alt="imagem da seta 'dicionar item'"
+                  src="./public/images/pngwing.com.png"
+                  alt="imagem da seta 'adicionar item'"
                 />
               </a>
             </section>
