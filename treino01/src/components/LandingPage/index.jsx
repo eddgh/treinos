@@ -8,7 +8,7 @@ export default function LandingPage() {
           <header>
             <img
               id={styles.logo}
-              src="/public/images/shoppingcart_77968.svg"
+              src="/images/shoppingcart_77968.svg"
               alt="logomarca de Meu Mercado"
             />
 
@@ -26,7 +26,7 @@ export default function LandingPage() {
 
               <a href="#" title="Adicionar item">
                 <img
-                  src="/public/images/pngwing.com.png"
+                  src="/images/pngwing.com.png"
                   alt="imagem da seta 'adicionar item'"
                 />
               </a>
