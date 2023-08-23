@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import styles from "./css/main.module.css";
+import styles from './css/main.module.css';
 export default function LandingPage() {
   return (
     <>
