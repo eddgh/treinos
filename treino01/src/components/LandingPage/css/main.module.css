@@ -48,6 +48,11 @@ h1,
     align-items: center;
     justify-content: center;
     margin: auto;
+    transition: background 0.3s ease-in-out;
+}
+
+.adding a:hover {
+    background: #96feff;
 }
 
 .adding a img {
