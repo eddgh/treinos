@@ -20,10 +20,8 @@ export default function LandingPage() {
 
           <main>
             <h1 className={styles.animateup}>Bem-vindo ao Meu Mercado!</h1>
-
             <section className={styles.adding}>
               <p className={styles.animateup}>Adicione um item abaixo e clique na seta</p>
-
               <a href="#" title="Adicionar item" className={styles.animateup}>
                 <img
                   src="/images/pngwing.com.png"
