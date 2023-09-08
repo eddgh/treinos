@@ -14,6 +14,7 @@ button,
 textarea {
     font: 400 1.6rem/1 'Nunito', sans-serif;
 }
+
 #pageLanding {
     background: linear-gradient(329.5deg, #5baef7 5%, #39e8b6 100%);
     text-align: center;
@@ -32,10 +33,19 @@ textarea {
 }
 
 
-.title,
-h1,
-.adding p {
+.title, h1, .adding p{
     height: 16vh;
+}
+
+.itemContainer {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    background: #f3f0f0;
+    margin: auto;
+    padding: 1rem;
+    border-radius: 1rem;
+    width:fit-content;
 }
 
 .adding a {
@@ -66,9 +76,10 @@ h1,
         opacity: 0;
         transform: translatey(16px);
     }
+
     to {
         opacity: 1;
-        transform: translateY(0);       
+        transform: translateY(0);
     }
 }
 
@@ -91,8 +102,9 @@ h1,
 }
 
 .adding p {
-    animation-delay: 200ms ;
+    animation-delay: 200ms;
 }
- .adding a {
+
+.adding a {
     animation-delay: 250ms;
- }
+}

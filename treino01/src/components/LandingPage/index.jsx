@@ -1,10 +1,14 @@
 /* eslint-disable no-unused-vars */
+import Product from '../Product';
 import styles from './css/main.module.css';
 export default function LandingPage() {
   return (
     <>
+
       <div id={styles.pageLanding}>
+
         <div id={styles.container}>
+
           <header>
             <img className={styles.animateup}
               id={styles.logo}
@@ -21,7 +25,7 @@ export default function LandingPage() {
           <main>
             <h1 className={styles.animateup}>Bem-vindo ao Meu Mercado!</h1>
             <section className={styles.adding}>
-              <p className={styles.animateup}>Adicione um item abaixo e clique na seta</p>
+
               <a href="#" title="Adicionar item" className={styles.animateup}>
                 <img
                   src="/images/pngwing.com.png"
