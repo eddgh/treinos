@@ -74,7 +74,7 @@ textarea {
 @keyframes up {
     from {
         opacity: 0;
-        transform: translatey(16px);
+        transform: translateY(16px);
     }
 
     to {
